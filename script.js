@@ -64,7 +64,7 @@ form_login.addEventListener('submit', event => {
         return alert('Seu nome de usuario precisa ter 4 caracteres');
     };
 
-    socket = io('whole-adapted-dingo.ngrok-free.app');
+    socket = io('https://whole-adapted-dingo.ngrok-free.app');
     localStorage.username = input_login.value;
     form_container.style.display = 'none';
     container_rect.style.display = 'block';
