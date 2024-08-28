@@ -24,7 +24,7 @@ Este é um jogo online multiplayer simples onde os jogadores controlam retângul
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências com `npm install`.
 3. Inicie o servidor com `npm start`.
-4. Acesse o jogo no navegador em `http://localhost:3000`.
+4. O servidor estára rodando em `http://localhost:8000`.
 
 ## Capturas de Tela
 
