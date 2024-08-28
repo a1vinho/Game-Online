@@ -30,8 +30,8 @@ Este é um jogo online multiplayer simples onde os jogadores controlam retângul
 
 Abaixo estão algumas capturas de tela do jogo em ação:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](imgs/jogo.png)
+![Screenshot 2](imgs/attack.jpg)
 
 ## Contribuições
 
